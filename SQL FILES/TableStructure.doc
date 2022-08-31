@@ -1,0 +1,10 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:x="urn:schemas-microsoft-com:office:word"
+            xmlns="http://www.w3.org/TR/REC-html40">
+
+            <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+            <html>
+            <head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+            </head>
+            <body><h1>Database sdn_sales_management</h1><h2>Dumping data for table category</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table customer_info</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table items</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table item_stock</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table purchase_details</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table purchase_invoice</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table sale_details</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table sale_invoice</h2><table class="width100" cellspacing="1"></table><h2>Dumping data for table supplier_info</h2><table class="width100" cellspacing="1"></table></body></html>
